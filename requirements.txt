@@ -3,3 +3,12 @@ langchain-community
 langchain-huggingface
 streamlit
 python-dotenv
+langserve
+fastapi
+uvicorn
+sse_starlette
+beautifulsoup4
+wikipedia
+groq
+langchainhub
+langchain_groq

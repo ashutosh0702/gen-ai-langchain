@@ -5,6 +5,8 @@ from langchain_core.output_parsers import StrOutputParser
 import streamlit as st
 from dotenv import load_env
 
+load_env()
+
 import os
 
 os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
